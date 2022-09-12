@@ -1,0 +1,15 @@
+D:\AspDotNet_pages\helloWorldAgain\bin\Debug\net6.0\helloWorldAgain.exe
+D:\AspDotNet_pages\helloWorldAgain\bin\Debug\net6.0\helloWorldAgain.deps.json
+D:\AspDotNet_pages\helloWorldAgain\bin\Debug\net6.0\helloWorldAgain.runtimeconfig.json
+D:\AspDotNet_pages\helloWorldAgain\bin\Debug\net6.0\helloWorldAgain.dll
+D:\AspDotNet_pages\helloWorldAgain\bin\Debug\net6.0\helloWorldAgain.pdb
+D:\AspDotNet_pages\helloWorldAgain\obj\Debug\net6.0\helloWorldAgain.csproj.AssemblyReference.cache
+D:\AspDotNet_pages\helloWorldAgain\obj\Debug\net6.0\helloWorldAgain.GeneratedMSBuildEditorConfig.editorconfig
+D:\AspDotNet_pages\helloWorldAgain\obj\Debug\net6.0\helloWorldAgain.AssemblyInfoInputs.cache
+D:\AspDotNet_pages\helloWorldAgain\obj\Debug\net6.0\helloWorldAgain.AssemblyInfo.cs
+D:\AspDotNet_pages\helloWorldAgain\obj\Debug\net6.0\helloWorldAgain.csproj.CoreCompileInputs.cache
+D:\AspDotNet_pages\helloWorldAgain\obj\Debug\net6.0\helloWorldAgain.dll
+D:\AspDotNet_pages\helloWorldAgain\obj\Debug\net6.0\refint\helloWorldAgain.dll
+D:\AspDotNet_pages\helloWorldAgain\obj\Debug\net6.0\helloWorldAgain.pdb
+D:\AspDotNet_pages\helloWorldAgain\obj\Debug\net6.0\helloWorldAgain.genruntimeconfig.cache
+D:\AspDotNet_pages\helloWorldAgain\obj\Debug\net6.0\ref\helloWorldAgain.dll
